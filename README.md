@@ -1,23 +1,7 @@
-[### Hi there 👋
-
-<!--
-**shahidoffical01/shahidoffical01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966
+https://stock.adobe.com/images/front-end-development-banner-with-icons-website-html-customer-api-software-design-accessibility-server-icons-business-concept-web-vector-infographic-in-3d-style/463025395
 <h1 align="center">Hi 👋, I'm malik shahid</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/coding-animations--126663808259167697/">
+<img align="right" alt="Coding" width="400" src="68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidoffical01&label=Profile%20views&color=0e75b6&style=flat" alt="shahidoffical01" /> </p>
 
@@ -44,4 +28,3 @@ https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahidoffical01&show_icons=true&locale=en" alt="shahidoffical01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahidoffical01&" alt="shahidoffical01" /></p>
-)
