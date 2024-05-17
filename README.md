@@ -1,4 +1,4 @@
-<img height="600px" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/331417334/original/c05caa07a9d1cb6e22ea424f17fea83d109e74d5/be-your-frontend-web-developer-using-react-html-css-bootstrap-javascript.jpg" alt="">
+<img height="400px" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/331417334/original/c05caa07a9d1cb6e22ea424f17fea83d109e74d5/be-your-frontend-web-developer-using-react-html-css-bootstrap-javascript.jpg" alt="">
 <h1 align="center">Hi 👋, I'm malik shahid</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="center" height="400px"  src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" alt="coding">
