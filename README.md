@@ -1,7 +1,7 @@
-<img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FMAYURESHBAILURKAR%2FMAYURESHBAILURKAR&psig=AOvVaw00YlF9-GU9VHtjwZ1MhqaR&ust=1716049563107000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDJz7WNlYYDFQAAAAAdAAAAABAf" alt="">
+<img  src="https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif" alt="">
 <h1 align="center">Hi 👋, I'm malik shahid</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="center" height="400px"  src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" alt="coding">
+<img align="center" height="300px"  src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidoffical01&label=Profile%20views&color=0e75b6&style=flat" alt="shahidoffical01" /> </p>
 
